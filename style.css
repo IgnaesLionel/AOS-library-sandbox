@@ -1,0 +1,58 @@
+*{
+  margin : 0;
+  padding : 0;
+
+}
+header {
+}
+
+header h1 {
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+  align-items: center;
+}
+
+main {
+  padding-top: 20px;
+}
+footer {
+  width: 850px;
+  height : 100px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  margin: 0 auto;
+}
+
+footer h4 {
+  padding-top: 35px;
+}
+
+.wrapper {
+  width: 850px;
+  height : 1700px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  margin: 0 auto;
+}
+
+.image {
+  margin-top: 30px;
+}
+
+#titlehead {
+  background-color: black;
+    margin-bottom: 70px;
+    color: white;
+}
+
+.myh1 {
+  background-color: grey;
+  margin-bottom: 40px;
+}
+
+p{
+  margin: 30px 20px;
+}
